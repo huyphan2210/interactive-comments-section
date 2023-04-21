@@ -1,0 +1,9 @@
+.comment-box {
+    padding: 1.5rem;
+    background-color: white;
+    border-radius: 1rem;
+    display: grid;
+    grid-template-columns: 5% calc(95% - 1.5rem);
+    column-gap: 1.5rem;
+    margin-block-end: 1.5rem;
+}
